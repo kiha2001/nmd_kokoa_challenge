@@ -20,4 +20,5 @@
     font-size:132px;
     animation: hideSplashScreen 0.3s ease-in-out forwards;
     animation-delay: 1s;
+    z-index: 99;
 }
